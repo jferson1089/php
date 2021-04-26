@@ -1,0 +1,67 @@
+div{
+    border: 1px solid black;
+}
+
+h1{
+    color: cadetblue;
+}
+
+h2{
+    color: cornflowerblue;
+}
+
+h3{
+    color: royalblue;
+
+}
+
+h4{
+    color:cadetblue;
+}
+
+.cards{
+    border: 2px solid black;
+    height: 230px;
+    width: 175px;
+    margin: 10px;
+    padding:10px;
+}
+
+.container{
+    width: 80%;
+    border: 2px solid cornflowerblue;
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.user_Profile{
+    width: 80%;
+    height:300px;
+    border: 3px solid cornflowerblue;
+    margin: 10px;
+    padding:15px;
+    display:flex;
+}
+
+li{
+    list-style: none;
+    color: cornflowerblue;
+}
+
+img{
+    height:150px;
+    width:150px;
+}
+
+
+.smallImage{
+    height:50px;
+    width:50px;
+
+}
+
+.posts{
+    padding:10px;
+    border: 0px;
+}
+
